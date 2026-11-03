@@ -1,4 +1,5 @@
 # sudoku-validator
+https://sudoku-validator.streamlit.app/
 A Streamlit web app that uses NumPy matrix slicing to instantly check whether a 9x9 Sudoku board is valid, and tells you exactly which row, column, or sub-grid fails.
 
 ## Features
